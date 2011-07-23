@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+#plt.plot(x_values,y_values)
+#plt.yticks([-5,-4,-3,-2,-1,0,1,2,3,4,5])
+#plt.xticks([0,1,2,3,4,5,6,7,8,9,10])
+#plt.grid(True)
+#plt.axis([0,10,-5,5])
+#plt.ylabel('Y Div')
+#plt.xlabel('X Div')
+#plt.text(-0,-5, '%s, %s%s/Div'%(message[1],time_div,message[7]))
+#plt.show()
